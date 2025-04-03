@@ -2,7 +2,7 @@ Hi there, Welcome to my Github Profile!
 
 I am Deepak, 
 
-- Currently Studying BTECH in Computer Science at IIT HYDERABAD 2027 batch.
+- Currently Studying BTECH in Computer Science at IIT HYDERABAD, 2027 passout
 - 📫 How to reach me mail to deepaksana9030@gmail.com
 - 
 
