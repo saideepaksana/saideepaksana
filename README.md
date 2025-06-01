@@ -1,7 +1,5 @@
 Hi there, Welcome to my Github Profile!
 
-I am Deepak, 
-
 - I’m Deepak, an undergraduate in Computer Science and Engineering at IIT Hyderabad (Class of 2027). My interests span Algorithms, Competitive programming, Software Development, and I enjoy building real-world applications. I’m eager to explore these areas and connect with like-minded individuals.
 
 <!---
