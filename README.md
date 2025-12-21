@@ -8,4 +8,10 @@ My interests lie in Algorithms, Competitive Programming, System Programming and 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sai-deepak-sana/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/></a>
+&nbsp;
+<a href="https://www.instagram.com/saideepaksana/" target="blank">
+  <img align="center" 
+       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+       alt="Instagram Profile"/>
+</a>
 </p>
