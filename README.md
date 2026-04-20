@@ -23,11 +23,6 @@
     <img align="center"
          src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
          alt="Instagram Profile" />
-  </a>
-  &nbsp;
-  <img align="center"
-       src="https://img.shields.io/badge/saideepaksana-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-       alt="Discord Username" />
   <!-- &nbsp;
   <img align="center"
        src="https://komarev.com/ghpvc/?username=saideepaksana&label=Profile%20Views&style=for-the-badge"
