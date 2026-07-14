@@ -1,6 +1,6 @@
 ## <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I’m Sai Deepak</p>
 
-- 🫠 Pre-final year undergraduate in Computer Science and Engineering at IIT Hyderabad (Class of 2027).
+- 🫠 Final year undergraduate in Computer Science and Engineering at IIT Hyderabad (Class of 2027).
 - 🔭 My current interests include Algorithms, Competitive Programming, System Programming, and Software Development.
 - 🌱 Currently improving my problem-solving skills and deepening my understanding of system-level concepts.
 - 😄 Hobbies: Movies, Chess, and Running.
@@ -18,15 +18,6 @@
          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn Profile" />
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/saideepaksana/" target="_blank">
-    <img align="center"
-         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-         alt="Instagram Profile" />
-  <!-- &nbsp;
-  <img align="center"
-       src="https://komarev.com/ghpvc/?username=saideepaksana&label=Profile%20Views&style=for-the-badge"
-       alt="Profile Views" /> -->
 </p>
 
 ## 💻 Tech Stack
