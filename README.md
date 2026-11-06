@@ -1,9 +1,8 @@
 ## <p>Hey there <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> I’m Sai Deepak</p>
 
-- 🫠 Final year undergraduate in Computer Science and Engineering at IIT Hyderabad (Class of 2027).
+- Final year undergraduate in Computer Science and Engineering at IIT Hyderabad (Class of 2027).
 - 🔭 My current interests include Algorithms, Competitive Programming, System Programming, and Software Development.
 - 🌱 Currently improving my problem-solving skills and deepening my understanding of system-level concepts.
-- 😄 Hobbies: Movies, Chess, and Running.
 - 💬 I enjoy building real world applications and connecting with like-minded individuals.
 - 🐈 Always feel free to reach out to me for discussions, collaboration, or just to connect.
 
